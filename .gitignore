@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.bin
+whisper-cli
+*.mp3
+*.wav
+*.log
+lisa_chatbot_api_key.txt
+.DS_Store
+.idea/
+EOF
